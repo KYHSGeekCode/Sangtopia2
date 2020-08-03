@@ -8,4 +8,19 @@
     <string name="metal">Metal</string>
     <string name="wood">wood</string>
     <string name="fishing">Fishing</string>
+    <string name="hunting">Hunting</string>
+    <string name="organization">Organization</string>
+    <string name="forestry">Forestry</string>
+    <string name="crafting">Crafting</string>
+    <string name="shipbuilding">Ship Building</string>
+    <string name="mining">Mining</string>
+    <string name="compass">Compass</string>
+    <string name="sailing">Sailing</string>
+    <string name="navigation">Navigation</string>
+    <string name="smelting">Smithery</string>
+    <string name="icebreaking">Ice breaking</string>
+    <string name="fish_farm">Fish farming</string>
+    <string name="farming">Farming</string>
+    <string name="livestock_farming">Livestock Farming</string>
+    <string name="riding">Riding</string>
 </resources>
